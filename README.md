@@ -1,4 +1,4 @@
-# Data_Science_Project_1
+# Data_Science_Project_1: Práctica ETL (Extract, Transform and Load)
 
 El caso que se presenta a continuación consiste en poblar una dimensión de
 clientes de una tarjeta de crédito en Taiwán, con información de transacciones
